@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wtxc-web" />
+        <module name="wtxc-manager-interface" />
+        <module name="wtxc-common" />
+        <module name="wtxc-manager-pojo" />
+        <module name="wtxc-manager-service" />
+        <module name="wtxc-mybatis_generator" />
+        <module name="wtxc-manager-dao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wtxc-common" target="1.7" />
+      <module name="wtxc-manager" target="1.7" />
+      <module name="wtxc-manager-dao" target="1.7" />
+      <module name="wtxc-manager-interface" target="1.7" />
+      <module name="wtxc-manager-pojo" target="1.7" />
+      <module name="wtxc-manager-service" target="1.7" />
+      <module name="wtxc-mybatis_generator" target="1.7" />
+      <module name="wtxc-parent" target="1.7" />
+      <module name="wtxc-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

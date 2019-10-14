@@ -1,0 +1,10 @@
+com\zlt\dao\TbOrderItemMapper.class
+com\zlt\dao\TbOrderMapper.class
+com\zlt\dao\TbItemParamItemMapper.class
+com\zlt\dao\TbContentMapper.class
+com\zlt\dao\TbItemParamMapper.class
+com\zlt\dao\TbItemCatMapper.class
+com\zlt\dao\TbItemMapper.class
+com\zlt\dao\TbOrderShippingMapper.class
+com\zlt\dao\TbContentCategoryMapper.class
+com\zlt\dao\TbItemDescMapper.class

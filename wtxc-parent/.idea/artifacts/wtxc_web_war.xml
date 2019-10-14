@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wtxc-web:war">
+    <output-path>$PROJECT_DIR$/../wtxc-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>wtxc-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="wtxc-web.war">
+      <element id="artifact" artifact-name="wtxc-web:war exploded" />
+    </root>
+  </artifact>
+</component>
